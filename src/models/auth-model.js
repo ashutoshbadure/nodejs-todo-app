@@ -1,5 +1,6 @@
 const mongoose = require("mongoose");
 
+
 const AuthModel = new mongoose.Schema(
   {
     email: {
